@@ -1,0 +1,109 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 101",
+      "price": 100,
+      "image": "https://loremflickr.com/640/480/transport",
+      "description": "có hại cho sức khỏe ",
+      "categoryId": "1"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 200,
+      "image": "https://loremflickr.com/640/480/transport"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 300,
+      "description": "con meo ngu ngô",
+      "image": "https://loremflickr.com/640/480/transport"
+    },
+    {
+      "name": "lenovo",
+      "price": "1",
+      "id": 11,
+      "description": "con meo ngu ngô",
+      "image": "323319997_734815084668208_5405630919062263558_n.jpg"
+    },
+    {
+      "name": "gggg",
+      "price": "5",
+      "image": "sdfsfs",
+      "description": "gffsdfsfs",
+      "categoryId": "1",
+      "id": 12
+    },
+    {
+      "name": "gggg",
+      "price": "5",
+      "image": "sdfsfs",
+      "description": "gffsdfsfs",
+      "categoryId": "1",
+      "id": 13
+    }
+  ],
+  "category": [
+    {
+      "name": "adada",
+      "id": 2
+    },
+    {
+      "name": "            ",
+      "id": 3
+    }
+  ],
+  "user": [
+    {
+      "email": "test@gmail.com",
+      "username": "admin",
+      "password": "admin",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "email": "user",
+      "username": "user",
+      "password": "dinhtai2003",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "email": "anhnek033@gmail.com",
+      "username": "gfffà",
+      "password": "đuawada",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "email": "đưaa@gmail",
+      "username": "đưaadưa",
+      "password": "ưdâda",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "email": "test lần thứ n@gmail",
+      "username": "test lần thứ n",
+      "password": "ưdâda",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "email": "              ",
+      "username": "                   ",
+      "password": "      ",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "email": "a@gmail.com",
+      "username": "123",
+      "password": "123",
+      "role": "user",
+      "id": 7
+    }
+  ]
+}

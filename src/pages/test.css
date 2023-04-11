@@ -1,0 +1,34 @@
+.site-layout-content {
+    min-height: 280px;
+    padding: 24px;
+  }
+  #components-layout-demo-top .logo {
+    float: left;
+    width: 120px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+    background: rgba(255, 255, 255, 0.3);
+  }
+  .ant-row-rtl #components-layout-demo-top .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+  }
+  #components-layout-demo-responsive .logo {
+    height: 32px;
+    margin: 16px;
+    background: rgba(255, 255, 255, 0.2);
+  }
+.form-login-keke{
+  margin-right: 24px;
+}
+.buttonHD{
+  float: right;
+}
+.searchHD{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 500px;
+}
+.flex-detail{
+  display: flex;
+}
